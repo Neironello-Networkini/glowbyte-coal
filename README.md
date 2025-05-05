@@ -1,2 +1,1 @@
 # glowbyte
-# glowbyte-coal
